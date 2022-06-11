@@ -1,0 +1,9 @@
+XLSX Access SUCCESS | C:/Users/kylec/Documents/GitHub/Table-Crawler-Change-Detector-App/Test Files/Test Directory\Office Supply Sales.xlsx
+CSV Access  SUCCESS | C:/Users/kylec/Documents/GitHub/Table-Crawler-Change-Detector-App/Test Files/Test Directory\Lvl 1 Folder - 1\Party Sales.csv
+CSV Access  SUCCESS | C:/Users/kylec/Documents/GitHub/Table-Crawler-Change-Detector-App/Test Files/Test Directory\Lvl 1 Folder - 1\Lvl 2 Folder - 1.1\Lvl 3 Folder - 1\Thing Sales.csv
+XLSX Access SUCCESS | C:/Users/kylec/Documents/GitHub/Table-Crawler-Change-Detector-App/Test Files/Test Directory\Lvl 1 Folder - 1\Lvl 2 Folder - 1.1\Lvl 3 Folder - 1\Thing Sales.xlsx
+XLSX Access SUCCESS | C:/Users/kylec/Documents/GitHub/Table-Crawler-Change-Detector-App/Test Files/Test Directory\Lvl 1 Folder - 1\Lvl 2 Folder - 1.2\Hotdog Sales.xlsx
+XLSX Access SUCCESS | C:/Users/kylec/Documents/GitHub/Table-Crawler-Change-Detector-App/Test Files/Test Directory\Lvl 1 Folder - 1\Lvl 2 Folder - 1.2\Icecream Sales.xlsx
+XLSX Access SUCCESS | C:/Users/kylec/Documents/GitHub/Table-Crawler-Change-Detector-App/Test Files/Test Directory\Lvl 1 Folder - 1\Lvl 2 Folder - 1.2\Pizza Sales.xlsx
+CSV Access  SUCCESS | C:/Users/kylec/Documents/GitHub/Table-Crawler-Change-Detector-App/Test Files/Test Directory\Lvl 1 Folder - 2\Pen Sales.csv
+XLSX Access SUCCESS | C:/Users/kylec/Documents/GitHub/Table-Crawler-Change-Detector-App/Test Files/Test Directory\Lvl 1 Folder - 3\Tiny Shop.xlsx
